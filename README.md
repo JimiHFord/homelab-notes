@@ -36,4 +36,6 @@
 
 ## [TrueNAS](https://www.truenas.com/)
 
+## [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver)
+
 ...and more from [this article](https://aaron-kt-berry.medium.com/top-10-software-for-your-homelab-in-2021-98137a7de051)
