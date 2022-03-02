@@ -28,4 +28,6 @@
 
 ## [OnlyOffice](https://www.onlyoffice.com/desktop.aspx?AFFILIATE=6732&__c=1&affChecked=1)
 
+## [Joplin](https://joplinapp.org/)
+
 ...and more from [this article](https://aaron-kt-berry.medium.com/top-10-software-for-your-homelab-in-2021-98137a7de051)
