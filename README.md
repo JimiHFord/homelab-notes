@@ -48,3 +48,5 @@
 # Future Projects
 
 [ModelZoo](https://modelzoo.co/)
+
+[Ceph](https://www.reddit.com/r/homelab/comments/8f6tdg/anybody_having_ceph_builds_in_their_homelab/)
