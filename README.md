@@ -58,3 +58,27 @@
 [SageMath](https://www.sagemath.org/)
 
 [GNU Octave](https://www.gnu.org/software/octave/)
+
+[RAUC](https://github.com/rauc/rauc)
+
+[Photo Prism](https://photoprism.app/)
+
+
+## Approach notes
+
+Start with OKD and build around that
+Don't exclude virting in favor of containers - recipe for bad architecture
+
+S4E
+
+storage:
+estimate starting at 24TB
+options:
+* storage and compute on same machine
+* storage on 1 machine compute on the other
+
+go with second option
+
+hyperconverge
+rook configue ceph with 
+
