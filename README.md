@@ -44,6 +44,8 @@
 
 ## [Excalidraw](https://github.com/excalidraw/excalidraw)
 
+## [JupyterHub](https://jupyter.org/hub)
+
 ...and more from [this article](https://aaron-kt-berry.medium.com/top-10-software-for-your-homelab-in-2021-98137a7de051)
 
 
@@ -52,3 +54,7 @@
 [ModelZoo](https://modelzoo.co/)
 
 [Ceph](https://www.reddit.com/r/homelab/comments/8f6tdg/anybody_having_ceph_builds_in_their_homelab/)
+
+[SageMath](https://www.sagemath.org/)
+
+[GNU Octave](https://www.gnu.org/software/octave/)
