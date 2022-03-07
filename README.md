@@ -10,7 +10,7 @@
 
 ## [GitLab](https://about.gitlab.com/install/)
 
-## [GitTea](https://github.com/go-gitea/gitea)
+## [Gitea](https://github.com/go-gitea/gitea)
 
 ## [Pi-hole](https://pi-hole.net/)
 
