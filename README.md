@@ -48,6 +48,10 @@
 
 ## [JupyterHub](https://jupyter.org/hub)
 
+## [Sourcegraph](https://github.com/sourcegraph/sourcegraph)
+
+
+
 ...and more from [this article](https://aaron-kt-berry.medium.com/top-10-software-for-your-homelab-in-2021-98137a7de051)
 
 
