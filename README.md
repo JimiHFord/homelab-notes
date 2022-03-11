@@ -69,6 +69,7 @@
 
 [Photo Prism](https://photoprism.app/)
 
+[25 Open Datasets](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
 
 ## Approach notes
 
