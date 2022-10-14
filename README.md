@@ -26,6 +26,8 @@
 
 ## [pfsense](https://www.pfsense.org/)
 
+## [OpnSense](https://opnsense.org/)
+
 ## [BitWarden](https://bitwarden.com/)
 
 ## [OnlyOffice](https://www.onlyoffice.com/desktop.aspx?AFFILIATE=6732&__c=1&affChecked=1)
@@ -59,6 +61,12 @@
 ## [sendportal](https://github.com/mettle/sendportal)
 
 ## [listmonk](https://listmonk.app/docs/)
+
+## [Datree](https://github.com/datreeio/datree)
+
+## [Prometheus](https://prometheus.io/)
+
+## [Grafana](https://grafana.com/)
 
 ...and more from [this article](https://aaron-kt-berry.medium.com/top-10-software-for-your-homelab-in-2021-98137a7de051)
 
