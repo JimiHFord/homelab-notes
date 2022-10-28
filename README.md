@@ -1,3 +1,17 @@
+# [Proxmox](https://www.proxmox.com/en/proxmox-ve)
+
+`nuke-cluster.sh`
+```bash
+systemctl stop pve-cluster corosync
+pmxcfs -l
+rm -rf /etc/corosync/*
+rm /etc/pve/corosync.conf
+killall pmxcfs
+systemctl start pve-cluster
+```
+
+[Proxmox Tools](https://tteck.github.io/Proxmox/)
+
 # Future Services
 
 ## [PeerTube](https://github.com/Chocobozzz/PeerTube)
@@ -21,8 +35,6 @@
 ## [Plex](https://www.plex.tv/)
 
 ## [Jellyfin](https://jellyfin.org/)
-
-## [Proxmox](https://www.proxmox.com/en/proxmox-ve)
 
 ## [pfsense](https://www.pfsense.org/)
 
