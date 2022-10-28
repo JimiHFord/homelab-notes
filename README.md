@@ -80,6 +80,8 @@ systemctl start pve-cluster
 
 ## [Grafana](https://grafana.com/)
 
+## [Searx](https://www.youtube.com/watch?v=ifT6npY39Dw)
+
 ...and more from [this article](https://aaron-kt-berry.medium.com/top-10-software-for-your-homelab-in-2021-98137a7de051)
 
 
