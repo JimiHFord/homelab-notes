@@ -2,6 +2,8 @@
 
 ## [Install iTerm2](https://iterm2.com/)
 
+Change `Preferences > Profiles > Default Profile > Colors > Color Presets...` to be **Solarized Dark**
+
 Install Apple Developer Tools
 
 If not prompted by installation of iTerm2, run `xcode-select --install`.
