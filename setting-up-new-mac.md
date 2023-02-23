@@ -1,8 +1,10 @@
 # Setting Up a New Mac
 
-## [iTerm2](https://iterm2.com/)
+## [Install iTerm2](https://iterm2.com/)
 
 Install Apple Developer Tools
+
+If not prompted by installation of iTerm2, run `xcode-select --install`.
 
 [Install oh-my-zsh](https://ohmyz.sh/#install)
 
@@ -21,3 +23,6 @@ Don't forget to run:
 (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/jford/.zprofile
 eval "$(/usr/local/bin/brew shellenv)"
 ```
+_Note: the above command may differ depending on which architecture you're on (e.g. Intel, Apple Silicon).
+Refer to the Homebrew installation "Next steps:" output for the actual command._
+
