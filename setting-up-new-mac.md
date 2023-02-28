@@ -14,6 +14,8 @@ If not prompted by installation of iTerm2, run `xcode-select --install`.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+[Install zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+
 [Install Homebrew](https://brew.sh)
 
 ```
