@@ -1,0 +1,9 @@
+[user]
+	name = Jimi Ford
+	email = JimiHFord@users.noreply.github.com
+[core]
+	editor = code --wait
+[fetch]
+	prune = true
+[init]
+	defaultBranch = main
