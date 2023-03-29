@@ -30,6 +30,14 @@ eval "$(/usr/local/bin/brew shellenv)"
 _Note: the above command may differ depending on which architecture you're on (e.g. Intel, Apple Silicon).
 Refer to the Homebrew installation "Next steps:" output for the actual command._
 
+[Setup Passwordless Sudo](https://apple.stackexchange.com/questions/257813/enable-sudo-without-a-password-on-macos)
+
+```
+sudo visudo
+```
+
+`%admin ALL=(ALL) ALL` ➡️ `%admin ALL=(ALL) NOPASSWD: ALL`
+
 [Install Jump](https://github.com/gsamokovarov/jump)
 ```
 brew install jump
