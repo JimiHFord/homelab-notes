@@ -30,6 +30,16 @@ eval "$(/usr/local/bin/brew shellenv)"
 _Note: the above command may differ depending on which architecture you're on (e.g. Intel, Apple Silicon).
 Refer to the Homebrew installation "Next steps:" output for the actual command._
 
+[Install p10k](https://github.com/romkatv/powerlevel10k#homebrew)
+```
+brew install romkatv/powerlevel10k/powerlevel10k
+```
+
+Install p10k fonts
+```
+p10k configure
+```
+
 [Setup Passwordless Sudo](https://apple.stackexchange.com/questions/257813/enable-sudo-without-a-password-on-macos)
 
 ```
