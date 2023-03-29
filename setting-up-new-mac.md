@@ -52,6 +52,11 @@ sudo visudo
 
 `%admin ALL=(ALL) NOPASSWD: ALL`
 
+[Install the Ultimate vimrc](https://github.com/amix/vimrc)
+
+	git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+	sh ~/.vim_runtime/install_awesome_vimrc.sh
+
 [Install Jump](https://github.com/gsamokovarov/jump)
 ```
 brew install jump
