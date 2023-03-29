@@ -36,7 +36,11 @@ Refer to the Homebrew installation "Next steps:" output for the actual command._
 sudo visudo
 ```
 
-`%admin ALL=(ALL) ALL` ➡️ `%admin ALL=(ALL) NOPASSWD: ALL`
+`%admin ALL=(ALL) ALL`
+
+⬇️
+
+`%admin ALL=(ALL) NOPASSWD: ALL`
 
 [Install Jump](https://github.com/gsamokovarov/jump)
 ```
