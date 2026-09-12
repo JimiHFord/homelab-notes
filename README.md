@@ -1,5 +1,7 @@
 # [Proxmox](https://www.proxmox.com/en/proxmox-ve)
 
+[2026-09-11 `pved` k3s-server decommission audit](pved-k3s-server-decommission-audit-2026-09-11.md)
+
 `nuke-cluster.sh`
 ```bash
 systemctl stop pve-cluster corosync
